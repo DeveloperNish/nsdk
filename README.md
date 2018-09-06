@@ -45,5 +45,5 @@
  								console.log("will execute after the document loads");
  							});
  
-  Created By : Nischal Shrestha (http://developernish.com)
+  Created By : Nischal Shrestha (https://nischal-shrestha.github.io)
   Current Version : 1.0
